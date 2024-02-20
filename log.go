@@ -9,7 +9,7 @@ import (
 )
 
 // Namespace is the key to look for extra configuration details
-const Namespace = "github_com/devopsfaith/krakend-gelf"
+const Namespace = "github_com/davron112/krakend-gelf"
 
 var (
 	newTCPWriter = gelf.NewTCPWriter
